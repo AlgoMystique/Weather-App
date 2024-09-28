@@ -29,6 +29,3 @@ Welcome to your personal weather wizard! This app serves up real-time weather up
 1. Enter the name of a city in the search bar.
 2. **Important:** Click the "Search" button to retrieve the current weather data.
 3. Watch the GIF display based on the current weather conditions.
-
-**License**  
-This project is licensed under the MIT License—because sharing is caring!
