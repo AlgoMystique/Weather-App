@@ -3,8 +3,6 @@
 **Overview**  
 Welcome to your personal weather wizard! This app serves up real-time weather updates and forecasts for any location around the globe. Whether you're planning a beach day, a mountain hike, or just wondering if you need an umbrella, our app makes it a breeze to check the weather! 
 
-![Weather-App Screenshot](#)
-
 
 🔗 **Find it here:** [Weather-App](#)
 
